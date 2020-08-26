@@ -1,0 +1,23 @@
+{
+  "name": "mobiliz",
+  "version": "0.0.0",
+  "description": "",
+  "main": "mobiliz.js",
+  "scripts": {
+    "start": "node mobiliz.js"
+  },
+  "keywords": [],
+  "author": "AD",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "express-logger": "0.0.3",
+    "helmet": "^3.23.3",
+    "vhost": "^3.0.2"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
